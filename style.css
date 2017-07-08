@@ -1,0 +1,227 @@
+/*...body...*/
+    body{
+	  background-repeat:no-repeat;
+    }
+	
+	/*...Page1...*/
+	div.Page1{
+		display:inline-block; 
+		background:url(Page1.jpg); 
+		text-align:center; 
+		background-size:100% 100%; 
+		background-repeat: no-repeat;
+		width:100%; 
+		height:100%;
+	}
+	button.nav {
+		background-color: transparent;
+		padding: 15px 32px;
+		text-align: center;
+		text-decoration: none;
+		display: inline-block;
+		font-size: 16px;
+		margin: 4px 2px;
+		cursor: pointer;
+		border-color:white;
+		border-radius: 12px;
+		margin-top: 20px;
+		height:40px;
+		width:250px;
+	}
+	p.nav{
+		font-family:Myriad Pro;
+		color:orange;
+		font-size:20px;
+	}
+	p.Page1button{
+		font-family:Myriad Pro;
+		color:white;
+		font-size:15px; 
+		margin-top:-5px;
+	}
+    h3.Page1{
+		margin-top:200px; 
+		color:white;
+		font-size:30px;
+	}
+	div.Page1h3{
+		height:200px;
+		width:400px;
+		margin:0 auto;
+	}
+	
+	/*...Page2...*/
+	div.Page2{
+		display:inline-block;
+		background:url(Page2.jpg); 
+		background-size:100% 100%; 
+		background-repeat: no-repeat; 
+		width:100%;
+		height:auto
+	}
+	h2.Page2text1{
+		color:white; 
+		margin-top:0px;; 
+		margin-left:20px;
+	}
+	h2.Page2text2{
+		color:white; 
+		margin-top: 140px; 
+		margin-left: 40px;
+	}
+	h3.Page2{
+		color:white; 
+		margin-top: 60px; 
+		margin-left: 60px;
+	}
+	
+	/*...Page3.0...*/
+	div.Page3main{
+		 display:inline-block; 
+		 background:url(Page3.jpg); 
+		 background-size:100% 100%; 
+		 background-repeat: no-repeat; 
+		 width:100%; 
+		 height:100%;
+	}
+	div.Page3imgdiv1{
+		margin-top:50px;
+		margin-left:10%;
+		width:10%;
+		height:10%
+	}
+	img.Page3{
+		width:100%; 
+		height:auto; 
+	}
+	h3.Page3{
+		color:white;
+		font-size:3vw;
+		margin-top:-80%;
+		margin-left: 100%;
+	}
+	div.Page3buttondiv1{
+		margin-top: -40%;
+		margin-left: 10%;
+		height:100%;
+		width:80%;
+		text-align:center;
+	}
+	button.Page3{
+		background-color:transparent;
+		border: none; 
+		width:80%; 
+		height:6vw
+	}
+	div.Page3imgdiv2{
+		margin-top:4%;
+		margin-left:14.5%;
+		width:10%;
+		height:10%
+	}
+	div.Page3buttondiv2{
+		margin-top:-80%; 
+		margin-left:10%; 
+		height:100%; 
+		width:80%; 
+		text-align:center;
+	}
+	h2.Page3{
+		margin-left:50%;
+		margin-top:-300px; 
+		color:white;
+	}
+	div.Page3{
+		display:inline-block;
+		background:url(Page3.1.jpg); 
+		background-size:100% 100%; 
+		background-repeat: no-repeat; 
+		width:100%; 
+		height:100%;
+	}
+	h3.Page3long{
+		margin-left:60%; 
+		margin-top:-300px;
+		color:white; 
+		font-size:2vw;
+	}
+	/*...Page4...*/
+	div.Page4{
+		display:inline-block;
+		background:url(Page4.jpg); 
+		background-size:100% 100%;
+		background-repeat: no-repeat;
+		width:100%; 
+		height:100%;
+	}
+	h2.Page4{
+		 margin-top: 0px;
+		 margin-left: 10%;
+		 color:white;
+		 font-size:50px;
+	}
+	h3.Page4{
+		margin-top: 10%; 
+		margin-left: 60%;
+		color:white;
+		font-size:30px;
+	}
+	
+	/*...Page5...*/
+	div.Page5{
+		display:inline-block; 
+		background:url(Page5.jpg); 
+		background-size:100% 100%; 
+		background-repeat: no-repeat;
+		width:100%; 
+		height:auto;
+	}
+	div.Page5div{
+		background:#ffffff; 
+		margin:0 auto; 
+		width:70%;
+		text-align:center;
+	}
+	h2.Page5{
+		margin-top: 0px; 
+		font-family:arial;
+		color:3f3f3f;
+		font-size:40px;
+	}
+	h3.Page5-1{
+		font-family:arial;
+		color:3f3f3f;
+		font-size:30px;
+	}
+	h3.Page5-2{
+		font-family:arial;
+		color:black;
+		font-size:20px;
+	}
+	h3.Page5-3{
+		font-family:arial;
+		color:white;
+		font-size:30px;
+	}
+	input[type=text] {
+		width:300px;
+		border: none;
+		border-bottom: 1px solid black;
+	}
+	button.home {
+		
+		height:50px;
+		width:160px;
+		background-color: transparent;
+		border: none;
+		color: white;
+		padding: 15px 32px;
+		text-align: left;
+		text-decoration: none;
+		display: inline-block;
+		font-size: 16px;
+		margin: 4px 2px;
+		cursor: pointer;
+		border: 1px solid white;
+		border-radius: 12px;
+	}
